@@ -1,14 +1,23 @@
-# Jason "JJ" Atkinson | Systems Focused Support Professional
+# Hi, I'm Jason Atkinson 👋
+### **Help Desk & IT Operations | Practical Automation & Cybersecurity**
+ *Calgary, AB, Canada* • [LinkedIn](https://linkedin.com/in/jcatkinson) • [Portfolio Website](https://atkinsoncybersec.ca) • [Email Me](mailto:jason@atkinsoncybersec.ca)
 
-Systems focused IT professional translating ten years of multi industry operational grit into digital infrastructure precision. Process driven fixer specializing in hardware diagnostics, protocol compliance, and Python based automated pipelines. Prioritizing business continuity, system uptime, and strict adherance to Standard Operating Procedures (SOPs)
+---
 
-## Technical Capabilities Matrix
+### 👨‍💻 About Me
+A hands-on troubleshooter transitioning a decade of fast-paced operational discipline and customer care into Managed IT and Cybersecurity operations.
 
-* **Software Development & Automation** :: Python (REST API Data Engineering) | C# (Object Oriented Logic Foundations) | Bash Scripting | Git Version Control
-* **Hardware Operations & Triage** :: Component Diagnostics | Motherboard Fault Identification | Automated Inventory Supply Control
-* **Risk Management & Compliance** :: Trailer Dock Release (TDR) Certified | Real Time System Auditing | Administrative Data Integrity
+*  **Hardware & Systems:** 10+ years custom PC building, component-level fault isolation (CPU, RAM, GPU, storage), and clean OS deployments.
+*  **Front-Line Support:** Experienced in Tier 1 triage, calm customer guidance, and structured ticket documentation.
+*  **Operational Reliability:** Strong foundation in strict Standard Operating Procedures (SOPs), safety compliance (Amazon TDR certified), and SLA-driven environments.
+*  **Practical Scripting:** Building working Python utilities for system health monitoring, API data pipelines, and workflow automation.
 
-## Continuous Upskilling Roadmap
+---
 
-* **Google Cybersecurity Professional Certificate** :: In Active Progress | Focus areas include Linux OS command line mastery ♦ SQL database administration ♦ and Python security automation utilities.
-* **AWS Work Based Learning Program (WBLP)** :: Target track for Spring 2027 regional data center infrastructure capacity waves in the Calgary West cluster.
+###  Technical Toolkit
+
+```text
+Systems & Diagnostics  :: PC Assembly | Component Triage | Clean OS Deployment | Ticket Logging
+Scripting & Tooling    :: Python | Bash / Shell | Git & GitHub | REST APIs | VS Code
+Security & Compliance  :: Credential Management (.env) | SOP Adherence | Identity Verification
+Customer Care          :: Plain-English De-escalation | User Provisioning | Clear Documentation
