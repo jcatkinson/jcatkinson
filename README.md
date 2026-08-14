@@ -1,10 +1,10 @@
-# Hi, I'm Jason Atkinson 👋
+# Hi, I'm JJ
 ### **Help Desk & IT Operations | Practical Automation & Cybersecurity**
  *Calgary, AB, Canada* • [LinkedIn](https://linkedin.com/in/jcatkinson) • [Portfolio Website](https://atkinsoncybersec.ca) • [Email Me](mailto:jason@atkinsoncybersec.ca)
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 A hands-on troubleshooter transitioning a decade of fast-paced operational discipline and customer care into Managed IT and Cybersecurity operations.
 
 *  **Hardware & Systems:** 10+ years custom PC building, component-level fault isolation (CPU, RAM, GPU, storage), and clean OS deployments.
